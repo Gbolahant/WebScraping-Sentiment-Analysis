@@ -15,3 +15,4 @@ TextBlob
 VADER
 NLTK
 pytrends
+d
